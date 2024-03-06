@@ -33,7 +33,6 @@ class Retangulo {
   }
 }
 
-// Exemplo de uso
 const retangulo1 = new Retangulo(5, 7);
 console.log("Perímetro:", retangulo1.calcularPerimetro());
 console.log("Área:", retangulo1.calcularArea());
