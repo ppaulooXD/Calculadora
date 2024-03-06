@@ -45,8 +45,8 @@ console.log("É quadrado?", retangulo2.ehQuadrado());
 
 class Calculadora {
   constructor() {
-    this.Res = 0; // Inicializa o resultado com zero
-    this.Mem = 0; // Inicializa a memória com zero
+    this.Res = 0;
+    this.Mem = 0;
   }
 
   zerar() {
